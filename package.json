@@ -1,5 +1,5 @@
 {
-  "name": "tea-pro",
+  "name": "tea-pop-dropdown",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/engakyildiz/tea-pro.git"
+    "url": "git+https://github.com/engakyildiz/tea-pop-dropdown.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/engakyildiz/tea-pro/issues"
+    "url": "https://github.com/engakyildiz/tea-pop-dropdown/issues"
   },
-  "homepage": "https://github.com/engakyildiz/tea-pro#readme",
+  "homepage": "https://github.com/engakyildiz/tea-pop-dropdown#readme",
   "dependencies": {
     "hasilkan-uang": "^1.0.0",
     "logika-huruf": "^1.0.0",
