@@ -10,7 +10,7 @@ app.use(express.json());
 app.use('/', (req, res, next) => {
     return res.status(200).send({
         message: "OK",
-        result: "Hello World"
+        result: "Hello Tea"
     });
 });
 
